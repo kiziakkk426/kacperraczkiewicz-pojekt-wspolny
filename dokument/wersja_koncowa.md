@@ -1,2 +1,1 @@
-sens
-xyi
+Bezpieczne korzystanie z internetu jest kluczowe, aby chronić nasze dane osobowe i prywatność. Ważne jest, aby zawsze używać silnych haseł, najlepiej unikalnych dla różnych usług, i włączać dwuetapową weryfikację tam, gdzie to możliwe. Należy unikać klikania w podejrzane linki lub otwierania załączników z nieznanych źródeł, ponieważ mogą one prowadzić do phishingu lub złośliwego oprogramowania. Regularne aktualizowanie oprogramowania, w tym systemu operacyjnego i przeglądarki, pomaga zabezpieczyć nas przed nowymi zagrożeniami. Ważne jest także korzystanie z bezpiecznych połączeń internetowych (np. HTTPS) i publicznych sieci Wi-Fi z zachowaniem ostrożności, aby nie narażać się na ataki hakerów.
